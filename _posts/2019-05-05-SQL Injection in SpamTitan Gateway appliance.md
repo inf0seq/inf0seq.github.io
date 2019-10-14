@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "SQL Injection in SpamTitan Gateway appliance"
 date:   2019-05-05 19:51:02 +0700 
 categories: [cve]
 ---
