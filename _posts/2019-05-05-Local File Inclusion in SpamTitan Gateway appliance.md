@@ -21,7 +21,7 @@ virus and malware blocking, authentication control, outbound scanning as well as
 Central to everything we do is our service commitment to our worldwide client base, start our free trial today and see why so many
 global brands trust us with their business." as per statement on TitanHQ Spamtitan website. 
 
-* CVE ID: CVE-2019-
+* CVE ID: CVE-2019-12191
 * CWE ID: CWE-98
 
 #### #Proof of Concept
