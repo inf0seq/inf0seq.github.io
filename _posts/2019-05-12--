@@ -1,0 +1,27 @@
+---
+layout: post
+title:  ""
+date:   2019-05-12 19:51:02 +0700 
+categories: [pentest]
+---
+
+Pentest of SpamTitan email gateway
+
+0. First attempts to find vulnerabilities in the SpamTitan 
+1. Root the SpamTitan in Single Boot mode
+2. Identifying LFI
+3. Identifying SQLi
+4. Faulty update process
+5. Missing patches
+6. Backdoors
+7. Extracting source code, decoding ioncube encoded code
+8. Source code review
+
+#### Product description:
+
+#### #Proof of Concept
+
+#### Request:
+
+#### References:
+

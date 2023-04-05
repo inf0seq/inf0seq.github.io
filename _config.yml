@@ -1,0 +1,55 @@
+title: Information security
+description: My personal information security journey
+author: inf0seq
+github: https://github.com/inf0seq
+about: I am pentester n00b, still learning, currently mobile security, and focused on redteaming.
+disqus_shortname: inf0seq
+google_analytics: UA-XXXXXXXX-Y
+avatar_url: /static/img/avatar.jpg
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-facebook
+      link: "#"
+    - icon: fa-twitter
+      link: "https://twitter.com/inf0seq"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/inf0seq"
+    - icon: fa-stack-exchange
+      link: "#"
+    - icon: fa-github
+      link: "https://github.com/inf0seq"
+
+share:
+  twitter_username: inf0seq
+ 
+
+urls:
+    - text: About Me
+      url: /about/
+    - text: My Projects
+      url: /projects/
+    - text: XML Feed
+      url: /feed.xml
+
+url: "https://inf0seq.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
