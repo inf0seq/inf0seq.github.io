@@ -31,7 +31,7 @@ Responses returned are fairly verbose and can be used to infer whether a service
 Below is an example request to an localhost with open port:
 
 Request:
-
+{% highlight ruby %}
 GET http://localhost:22/ HTTP/1.1
 Host: [redacted]
 Pragma: no-cache
@@ -47,3 +47,4 @@ Content-Type: text/plain
 Content-Length: 38
 
 SSH-2.0-OpenSSH_5.3Protocol mismatch.
+{% endhighlight %}
