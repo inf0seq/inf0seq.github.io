@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cross-site scripting (XSS) in Opmantek (FirstWave company), NMIS module before 9.4.3"
+title:  "Cross-site scripting (XSS) in Opmantek NMIS module before 9.4.3"
 date:   2023-04-06 19:51:02 +0700 
 categories: [cve]
 ---
@@ -19,7 +19,7 @@ categories: [cve]
 FirstWave is a publicly-listed, global technology company formed in 2004 in Sydney, Australia.
 FirstWave’s globally unique CyberCision platform provides best-in-class cybersecurity technologies, enabling FirstWave’s Partners, including some of the world’s largest telcos and managed service providers (MSPs), to protect their customers from cyber-attacks, while rapidly growing cybersecurity services revenues at scale.
 
-#### Proof of Concept
+#### Proof of Concept:
 
 Reflected cross-site scripting (XSS) vulnerability was discovered in the product.
 
@@ -30,7 +30,6 @@ The following Proof of Concept (PoC) demonstrates the attack as well as displayi
 #### Request:
 {% highlight ruby %}
 POC:
-
 TBA
 {% endhighlight %}
 
