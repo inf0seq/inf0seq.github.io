@@ -5,21 +5,19 @@ date:   2023-04-06 19:51:02 +0700
 categories: [cve]
 ---
 
-Vendor: Opmantek (FirstWave company)
+* CVE ID: CVE-2023-26909
+* CWE ID: CWE-79
 
-Product: Opmantek NMIS9 Virtual Appliance
+#### Vendor: Opmantek (FirstWave company)
 
-Version affected: NMIS 9.4.2 and earlier versions
+#### Product: Opmantek NMIS9 Virtual Appliance
+
+#### Version affected: NMIS 9.4.2 and earlier versions
 
 #### Product description:
 
 FirstWave is a publicly-listed, global technology company formed in 2004 in Sydney, Australia.
 FirstWave’s globally unique CyberCision platform provides best-in-class cybersecurity technologies, enabling FirstWave’s Partners, including some of the world’s largest telcos and managed service providers (MSPs), to protect their customers from cyber-attacks, while rapidly growing cybersecurity services revenues at scale.
-In January 2022, FirstWave acquired Opmantek Limited (Opmantek), a leading provider of enterprise-grade network management, automation and IT audit software, with 150,000 organisations using their software across 178 countries and enterprise clients including Microsoft, Telmex, Claro, NextLink and NASA.
-This product provides near real-time visibility of the networks and ITC infrastructures and interconnected computing resources.
-
-* CVE ID: CVE-2023-26909
-* CWE ID: CWE-79
 
 #### Proof of Concept
 
