@@ -34,7 +34,6 @@ The following Proof of Concept (PoC) demonstrates the attack as well as displayi
 POC:
 
 TBA
-
 {% endhighlight %}
 
 #### References:
