@@ -21,7 +21,7 @@ This product provides near real-time visibility of the networks and ITC infrastr
 * CVE ID: CVE-2023-26909
 * CWE ID: CWE-79
 
-#### #Proof of Concept
+#### Proof of Concept
 
 Reflected cross-site scripting (XSS) vulnerability was discovered in the product.
 
