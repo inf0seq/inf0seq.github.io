@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cross-site scripting (XSS) in Opmantek (FirstWave company), NMIS module before 9.4.3"
-date:   2023-04-06 19:51:02 +0700
+date:   2023-04-06 19:51:02 +0700 
 categories: [cve]
 ---
 
