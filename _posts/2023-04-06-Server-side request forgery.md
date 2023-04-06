@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Server-side request forgery (SSRF)"
-date:   2023-04-05 19:51:02 +0700 
+date:   2023-04-06 19:51:02 +0700 
 categories: [cve]
 ---
 
