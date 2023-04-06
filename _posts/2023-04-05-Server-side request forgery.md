@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Server-side request forgery (SSRF)"
