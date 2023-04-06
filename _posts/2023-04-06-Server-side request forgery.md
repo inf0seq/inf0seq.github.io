@@ -10,19 +10,19 @@ categories: [cve]
 
 ... products server-side request forgery
 
-Summary:
+#### Summary:
 
 ... products is vulnerable to server-side request forgery (SSRF). This may allow an unauthenticated attacker to send unauthorized requests from the system, potentially leading to network enumeration or facilitating other attacks.
 
-Product:
+#### Product:
 
 ...
 
-Version:
+#### Version:
 
 ...
 
-Proof-of-Concept:
+#### Proof-of-Concept:
 
 Web server is externally accessible; and permitted to invoke connections to internal hosts. The HTTP GET Request can be abused by unauthenticated attackers to cause the web server to connect to an arbitrary TCP port of an arbitrary host.
 
