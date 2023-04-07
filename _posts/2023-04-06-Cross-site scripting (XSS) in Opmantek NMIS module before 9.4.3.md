@@ -27,10 +27,8 @@ A cross-site scripting vulnerability was identified on the cgi-bin/config.pl pag
 
 The following Proof of Concept (PoC) demonstrates the attack as well as displaying evidence of the script payload being returned in the response. 
 
-#### Request:
+#### Reproducing of Cross-Site scripting:
 {% highlight ruby %}
-
-Reproducing of Cross-Site scripting
 
 1.GET Request
 
