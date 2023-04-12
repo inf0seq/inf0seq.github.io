@@ -7,7 +7,7 @@ categories: [cve]
 
 Vulnerability: Path traversal (also known as directory traversal or file path injection) 
 
-Path traversa in Enterprise loadbalancer VA MAX Appliance v8.3.8-134
+Path traversal in Enterprise loadbalancer VA MAX Appliance v8.3.8-134
 
 Vendor: Loadbalancer.org, https://www.loadbalancer.org
 
