@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Path traversa in Enterprise loadbalancer VA MAX - v8.3.8 and earlier"
+title:  "Path traversal in Enterprise loadbalancer VA MAX - v8.3.8 and earlier"
 date:   2020-04-21 19:51:02 +0700 
 categories: [cve]
 ---
