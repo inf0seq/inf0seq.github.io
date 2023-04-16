@@ -19,13 +19,13 @@ categories: [cve]
 FirstWave is a publicly-listed, global technology company formed in 2004 in Sydney, Australia.
 FirstWave’s globally unique CyberCision platform provides best-in-class cybersecurity technologies, enabling FirstWave’s Partners, including some of the world’s largest telcos and managed service providers (MSPs), to protect their customers from cyber-attacks, while rapidly growing cybersecurity services revenues at scale.
 
+The affected product is the Opmantek NMIS9 Virtual Appliance, which is developed by Opmantek, a subsidiary of FirstWave Corporation, a publicly-listed global technology company based in Sydney, Australia. The product version affected is NMIS 9.4.2 and earlier versions.
+
 #### Proof of Concept:
 
-Reflected cross-site scripting (XSS) vulnerability was discovered in the product.
+A Proof of Concept (PoC) has revealed the presence of a reflected cross-site scripting (XSS) vulnerability in the product. The vulnerability was discovered on the cgi-bin/config.pl page, and it can be exploited to execute malicious code in the context of the affected user's session.
 
-A cross-site scripting vulnerability was identified on the cgi-bin/config.pl page.
-
-The following Proof of Concept (PoC) demonstrates the attack as well as displaying evidence of the script payload being returned in the response. 
+The attack scenario involves injecting a JavaScript payload into the 'act' parameter of the URL, which gets executed when the user logs in with their credentials. The PoC also provides evidence of the script payload being returned in the HTTP response.
 
 #### Reproducing of Cross-Site scripting:
 {% highlight ruby %}
@@ -92,7 +92,6 @@ Content-Disposition: form-data; name="item"
 hide_groups
 -----------------------------219772600018532218693195954924--
 
-
 Response:
 
 HTTP/1.1 200 OK
@@ -109,7 +108,12 @@ Request not found
 
 {% endhighlight %}
 
+#### Recommendation:
+
+This vulnerability can be mitigated by updating the affected product to a patched version. The company has released a fixed version of the product (NMIS 9.4.3) that addresses this vulnerability. It is recommended that users upgrade to the latest version to ensure the security of their systems.
+
 #### References:
+
 1. https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
 2. https://firstwave.com/products/network-management-information-system/
 3. https://support.opmantek.com/browse/SUPPORT-10209
