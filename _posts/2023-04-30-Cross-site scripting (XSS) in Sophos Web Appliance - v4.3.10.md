@@ -30,8 +30,7 @@ It was possible to inject malicious code, I've successfully embedded a script in
 Tested on Firefox browser 76.0.1 (as of 15 May 2020).
 
 Vulnerable input section were possible to set to:
-sortDirection
-sortKey
+sortDirection and sortKey
 
 The following Proof of Concept (PoC) demonstrates the attack as well as displaying evidence of the script payload being returned in the response. 
 
