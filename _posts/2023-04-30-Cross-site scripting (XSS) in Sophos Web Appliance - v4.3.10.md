@@ -27,7 +27,7 @@ A cross-site scripting vulnerability was identified.
 
 It was possible to inject malicious code, I've successfully embedded a script in the response, which allowed me to execute it when the page loaded in the browser.
 
-I've used Firefox browser 76.0.1 (as of 15 May 2020).
+Tested on Firefox browser 76.0.1 (as of 15 May 2020).
 
 Vulnerable input section were possible to set to:
 sortDirection
