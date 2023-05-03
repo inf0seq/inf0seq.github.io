@@ -59,6 +59,7 @@ Expires: Sat, 08 Feb 2020 14:54:39 GMT
 {"reurl":"managedevicegroup.html?action=71020","message":"Device Group ww;<\/script>/<\/script/>/<svg/onload=alert('Sophos') width=100//> is already exists.","status":"500"}
 {% endhighlight %}
 
+![Java Script executed when the page loads in the user's browser](/static/img/sophos-iview.png)
 
 Reply from Sophos via Bugcrowd:
 
