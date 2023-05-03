@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Reflected Cross-Site scripting in Sophos iView"
-date:   2023-04-30 19:51:02 +0700 
+date:   2023-05-03 19:51:02 +0700 
 categories: [cve]
 ---
 
