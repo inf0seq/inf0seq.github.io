@@ -66,6 +66,12 @@ Content-Length: 144
 {"sortKey":"name","sortDirection":"asc<iframe src=javascript:alert(1) ","schedulesJS":[],"schedulesList":"<ul id=\"table_entries_list\"><\/ul>"}
 {% endhighlight %}
 
+Visual representation of the vulnerability.
+                                                  
+![Java Script executed when the page loads in the user's browser](/static/img/SWA - 4.3.10 -1.png)
+![User's browser](/static/img/SWA - 4.3.10 -2.png)
+![SWA system](/static/img/SWA - 4.3.10 -3.png)  
+  
 #### References:
 1. https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
 2. https://support.sophos.com/support/s/article/KB-000039441?language=en_US
