@@ -2,8 +2,8 @@ title: Information security
 description: My personal information security journey
 author: inf0seq
 github: https://github.com/inf0seq
-about: I am pentester n00b, still learning, currently mobile security, and focused on redteaming.
-disqus_shortname: inf0seq
+about: I am pentester, still learning, currently mobile security, and focused on redteaming.
+disqus_shortname: Inf0seq
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
 
@@ -19,7 +19,7 @@ social:
     - icon: fa-facebook
       link: "#"
     - icon: fa-twitter
-      link: "https://twitter.com/inf0seq"
+      link: "https://twitter.com/"
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/inf0seq"
     - icon: fa-stack-exchange
