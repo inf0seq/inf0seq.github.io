@@ -88,3 +88,4 @@ _lldpd:x:103:501::/home/_lldpd:/bin/bash
 1. https://www.owasp.org/index.php/Path_Traversal
 2. https://www.axway.com/
 3. Axway File Transfer Direct - http://infosightsol.com/wordpress/wp-content/uploads/2012/11/Axway_Datasheet_File_Transfer_Direct_EN.pdf
+4. Archived version of .3, since the page is offline - https://web.archive.org/web/20151028163816/http://infosightsol.com/wordpress/wp-content/uploads/2012/11/Axway_Datasheet_File_Transfer_Direct_EN.pdf
