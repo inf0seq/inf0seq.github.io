@@ -15,7 +15,7 @@ Reflected XSS in the privileged user area, where i was able to set parameter 'js
 
 That successfully embedded a script in the response, which was executed when the page loads in the user's browser.
 
-* CVE ID: awaiting
+* CVE ID: CVE-2023-33335
 * CWE ID: CWE-79
 
 #### #Proof of Concept
