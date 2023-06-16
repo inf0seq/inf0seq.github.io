@@ -20,7 +20,7 @@ Potentially risky content is scanned for various forms of malware.
 
 "Sophos Web Appliance (SWA) and Sophos Management Appliance (SMA) will reach End of Life (EOL) on 20 July 2023. When this happens, the products will continue to pass traffic but will no longer receive security or software updates. Cloud services with functions such as support services and LiveConnect will be turned off."
 
-* CVE ID: awaiting, initially reported to Sophos on 05 Jan 2020 via Bugcrowd. Requested for CVE on Apr 28, 2023
+* CVE ID: CVE-2023-33336
 * CWE ID: CWE-79
 
 #### Proof of Concept:
