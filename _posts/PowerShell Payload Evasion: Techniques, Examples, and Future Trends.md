@@ -1,3 +1,9 @@
+
+---
+layout: post
+title:  "PowerShell Payload Evasion: Techniques, Examples, and Future Trends"
+date:   2025-02-18 19:51:02 +0700 
+categories: [redteam]
 ---
 
 ## **1. PowerShell Payload Evasion Techniques for Red Teams**
